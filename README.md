@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Java Patterns Practice
 
 A collection of Java programs that print different patterns using loops. This repository is ideal for beginners learning Java and nested loops.
@@ -19,3 +20,7 @@ A collection of Java programs that print different patterns using loops. This re
 - Palindromic Pattern
 - Diamond Pattern
 
+=======
+# java-patterns-practice
+A collection of Java programs demonstrating console-based patterns for beginners using loops.
+>>>>>>> 7592a323425e6d8fffba76f987cc32ceb6b618b6
